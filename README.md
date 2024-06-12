@@ -40,3 +40,7 @@ The script includes the following hyperparameters that can be adjusted:
 
 - The script generates a synthetic test set by altering complete inscriptions from the original dataset. The test set is used for evaluation purposes.
 - The script saves the extracted n-gram probabilities to a text file (n-gram_probabilities.txt) and the n-gram tokens to pickle files (unigram_tokens.pkl, bigram_tokens.pkl, trigram_tokens.pkl).
+
+## Noteboook
+
+The tool itself is made available as a Colab Notebook and can be found in the Colab_Notebook folder along with the dependencies. You can run the model on your own selection of runic inscriptions by modifying the `runic_inscriptions.txt` file. Be sure to employ - and … characters as placeholders.
