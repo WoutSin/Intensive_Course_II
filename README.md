@@ -1,4 +1,4 @@
-# Runic Inscription Reconstruction
+# Runic Inscription Emendation
 
 This Python script is designed to reconstruct incomplete runic inscriptions from the Medieval and Viking Age periods using n-gram probabilities and a modified Minimum Edit Distance algorithm. The script processes a dataset of runic inscriptions, extracts n-gram probabilities and generates potential candidates for missing or incomplete tokens in the inscriptions.
 
